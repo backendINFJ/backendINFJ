@@ -40,9 +40,10 @@
     
 ## 🔨 Skills 🔨
 <div style="display:flex; flex-direction:row;">
-    <img src="https://img.shields.io/badge/java-%234ea94b?style=for-the-badge&logo=java&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
-    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/java-%234ea94b?style=for-the-badge&logo=JAVA&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=SPRING boot&logoColor=white"> 
+    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=MYSQL&logoColor=white">
+    <img src="https://img.shields.io/badge/REDIS-FF4500?style=flat-square&logo=REDIS&logoColor=white"/>
     <br>
 
 </div><br>
