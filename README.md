@@ -43,6 +43,7 @@
     <img src="https://img.shields.io/badge/java-%234ea94b?style=for-the-badge&logo=JAVA&logoColor=white"> 
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=SPRING boot&logoColor=white"> 
     <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=MYSQL&logoColor=white">
+    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
     <br>
 
 </div><br>
