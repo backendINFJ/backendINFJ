@@ -40,7 +40,7 @@
     <img src="https://img.shields.io/badge/JAVA-%234ea94b?style=for-the-badge&logo=JAVA&logoColor=white"> 
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=SPRING boot&logoColor=white"> 
     <img src="https://img.shields.io/badge/MYSQL-4479A1.svg?style=for-the-badge&logo=MYSQL&logoColor=white">
-    <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
+    <img src="https://img.shields.io/badge/REDIS-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
     <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white">
     <br>
 
