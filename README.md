@@ -40,7 +40,7 @@
     <img src="https://img.shields.io/badge/MYSQL-4479A1.svg?style=for-the-badge&logo=MYSQL&logoColor=white">
     <img src="https://img.shields.io/badge/REDIS-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
     <img src="https://img.shields.io/badge/GRAFANA-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white">
-    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white">
+    <img src="https://img.shields.io/badge/PROMETHEUS-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white">
     <br>
 
 </div><br>
