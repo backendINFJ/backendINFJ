@@ -39,7 +39,6 @@
     <img src="https://img.shields.io/badge/GRAFANA-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white">
     <img src="https://img.shields.io/badge/PROMETHEUS-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white">
     <br>
-
 </div><br>
 </div>
 
