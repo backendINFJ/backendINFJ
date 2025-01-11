@@ -32,13 +32,13 @@
     
 ## 🔨 Skills 🔨
 <div style="display:flex; flex-direction:row;">
-    <img src="https://img.shields.io/badge/JAVA-%234ea94b?style=for-the-badge&logo=JAVA&logoColor=white"> 
-    <img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=SPRING boot&logoColor=white">  
-    <img src="https://img.shields.io/badge/MYSQL-4479A1.svg?style=for-the-badge&logo=MYSQL&logoColor=white">
-    <img src="https://img.shields.io/badge/REDIS-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
-    <img src="https://img.shields.io/badge/GRAFANA-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white">
-    <img src="https://img.shields.io/badge/PROMETHEUS-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white">
-    <br>
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
+    <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">  
+    <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white">
+    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<!--     <img src="https://img.shields.io/badge/PROMETHEUS-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white">
+    <br> -->
 </div><br>
 </div>
 
