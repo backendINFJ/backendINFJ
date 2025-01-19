@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+backendINFJ+GitHub!👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+developer-rocket+GitHub!👐)](https://git.io/typing-svg)
  
 <div align="left">   
  
@@ -8,7 +8,10 @@
 
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FbackendINFJ&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/backendINFJ)
 
-[![bakcendINFJ GitHub stats](https://github-readme-stats.vercel.app/api?username=backendINFJ&theme=nord&hide_border=true&count_private=true)](https://github.com/backendINFJ/github-readme-stats) [![backendINFJ languages](https://github-readme-stats.vercel.app/api/top-langs/?username=backendINFJ&layout=compact&theme=nord&hide_border=true&langs_count=10)](https://github.com/bakcendINFJ/github-readme-stats)
+<div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=developer-rocket&bg_color=180,00000000,&title_color=000000&text_color=000000"
+    </div>
+    
  
  
 <br>
