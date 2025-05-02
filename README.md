@@ -22,16 +22,6 @@
     </a>
 
   
- 
-<!-- ## 📞 Contact 📞  
-<div style="display:flex; flex-direction:row;">
-    <a href="mailto:backendINFJ@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-</div><br> --!>
-
-
-    
 <!-- ## 🔨 Skills 🔨 --> 
 <div style="display:flex; flex-direction:row;">
 <!--     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
